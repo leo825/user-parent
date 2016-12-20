@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomBeanRegistry">
+    <option name="map">
+      <map>
+        <entry key="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#10;&lt;dwr:annotation-config xmlns:dwr=&quot;http://www.directwebremoting.org/schema/spring-dwr&quot; id=&quot;dwrAnnotationConfig&quot; /&gt;&#10;&#10;">
+          <value>
+            <list>
+              <CustomBeanInfo>
+                <option name="beanName" value="dwrAnnotationPostProcessor" />
+                <option name="beanClassName" value="org.directwebremoting.spring.DwrAnnotationPostProcessor" />
+              </CustomBeanInfo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

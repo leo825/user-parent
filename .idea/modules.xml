@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-common/basic-common.iml" filepath="$PROJECT_DIR$/basic-common/basic-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-hibernate/basic-hibernate.iml" filepath="$PROJECT_DIR$/basic-hibernate/basic-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-core/cms-core.iml" filepath="$PROJECT_DIR$/cms-core/cms-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-topic/cms-topic.iml" filepath="$PROJECT_DIR$/cms-topic/cms-topic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-user/cms-user.iml" filepath="$PROJECT_DIR$/cms-user/cms-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cms-web/cms-web.iml" filepath="$PROJECT_DIR$/cms-web/cms-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-parent.iml" filepath="$PROJECT_DIR$/user-parent.iml" />
+    </modules>
+  </component>
+</project>
